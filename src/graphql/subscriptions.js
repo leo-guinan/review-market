@@ -8,7 +8,6 @@ export const onCreateUser = /* GraphQL */ `
       username
       publicAddress
       nonce
-      description
       createdAt
       updatedAt
     }
@@ -21,7 +20,6 @@ export const onUpdateUser = /* GraphQL */ `
       username
       publicAddress
       nonce
-      description
       createdAt
       updatedAt
     }
@@ -34,7 +32,6 @@ export const onDeleteUser = /* GraphQL */ `
       username
       publicAddress
       nonce
-      description
       createdAt
       updatedAt
     }

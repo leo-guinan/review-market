@@ -8,7 +8,6 @@ export const getUser = /* GraphQL */ `
       username
       publicAddress
       nonce
-      description
       createdAt
       updatedAt
     }
@@ -26,7 +25,6 @@ export const listUsers = /* GraphQL */ `
         username
         publicAddress
         nonce
-        description
         createdAt
         updatedAt
       }

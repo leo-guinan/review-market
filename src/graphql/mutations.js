@@ -11,7 +11,6 @@ export const createUser = /* GraphQL */ `
       username
       publicAddress
       nonce
-      description
       createdAt
       updatedAt
     }
@@ -27,7 +26,6 @@ export const updateUser = /* GraphQL */ `
       username
       publicAddress
       nonce
-      description
       createdAt
       updatedAt
     }
@@ -43,7 +41,6 @@ export const deleteUser = /* GraphQL */ `
       username
       publicAddress
       nonce
-      description
       createdAt
       updatedAt
     }
