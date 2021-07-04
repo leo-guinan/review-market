@@ -15,7 +15,7 @@ function ProductPageUI({ product }) {
   const { activeCurrency } = useSettingsContext()
   const [variantQuantity, setVariantQuantity] = React.useState(1)
   const [activeVariantId, setActiveVariantId] = React.useState(
-    router.query.variantId || product.variants[0].id
+    1
   )
 
   React.useEffect(() => {
