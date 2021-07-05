@@ -6,7 +6,7 @@ export const getUser = /* GraphQL */ `
     getUser(id: $id) {
       id
       username
-      publicAddresss
+      publicAddress
       nonce
       createdAt
       updatedAt
@@ -23,7 +23,7 @@ export const listUsers = /* GraphQL */ `
       items {
         id
         username
-        publicAddresss
+        publicAddress
         nonce
         createdAt
         updatedAt

@@ -1,6 +1,6 @@
 type User @model {
   id: ID!
   username: String!
-  publicAddresss: String!
+  publicAddress: String!
   nonce: Int!
 }
