@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reviewmarket-dev-201409-authRole",
+      "UnauthRoleArn": "arn:aws:iam::702658285050:role/amplify-reviewmarket-dev-201409-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::702658285050:role/amplify-reviewmarket-dev-201409-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-reviewmarket-dev-201409-deployment",
+      "UnauthRoleName": "amplify-reviewmarket-dev-201409-unauthRole",
+      "StackName": "amplify-reviewmarket-dev-201409",
+      "StackId": "arn:aws:cloudformation:us-east-1:702658285050:stack/amplify-reviewmarket-dev-201409/ecf575d0-dd25-11eb-8a41-0a4f97d4255b",
+      "AmplifyAppId": "d1c0pcjhscbuto"
+    }
+  }
+}

@@ -6,7 +6,7 @@ export const onCreateUser = /* GraphQL */ `
     onCreateUser {
       id
       username
-      publicAddress
+      publicAddresss
       nonce
       createdAt
       updatedAt
@@ -18,7 +18,7 @@ export const onUpdateUser = /* GraphQL */ `
     onUpdateUser {
       id
       username
-      publicAddress
+      publicAddresss
       nonce
       createdAt
       updatedAt
@@ -30,7 +30,7 @@ export const onDeleteUser = /* GraphQL */ `
     onDeleteUser {
       id
       username
-      publicAddress
+      publicAddresss
       nonce
       createdAt
       updatedAt
