@@ -1,15 +1,15 @@
 {
   "dev": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-reviewmarket-dev-101414-authRole",
-      "UnauthRoleArn": "arn:aws:iam::702658285050:role/amplify-reviewmarket-dev-101414-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::702658285050:role/amplify-reviewmarket-dev-101414-authRole",
+      "AuthRoleName": "amplify-reviewmarket-dev-132739-authRole",
+      "UnauthRoleArn": "arn:aws:iam::702658285050:role/amplify-reviewmarket-dev-132739-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::702658285050:role/amplify-reviewmarket-dev-132739-authRole",
       "Region": "us-east-2",
-      "DeploymentBucketName": "amplify-reviewmarket-dev-101414-deployment",
-      "UnauthRoleName": "amplify-reviewmarket-dev-101414-unauthRole",
-      "StackName": "amplify-reviewmarket-dev-101414",
-      "StackId": "arn:aws:cloudformation:us-east-2:702658285050:stack/amplify-reviewmarket-dev-101414/4a720d70-dd9b-11eb-a843-02e6541cad36",
-      "AmplifyAppId": "d225adc6h6bvs2"
+      "DeploymentBucketName": "amplify-reviewmarket-dev-132739-deployment",
+      "UnauthRoleName": "amplify-reviewmarket-dev-132739-unauthRole",
+      "StackName": "amplify-reviewmarket-dev-132739",
+      "StackId": "arn:aws:cloudformation:us-east-2:702658285050:stack/amplify-reviewmarket-dev-132739/4d4b9f00-ddb6-11eb-aae7-060ef97535ca",
+      "AmplifyAppId": "d1ir5s17pmbcf3"
     }
   }
 }

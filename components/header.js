@@ -51,6 +51,15 @@ function Header({ pages = [] }) {
               </a>
             </Link>
           </div>
+          <div className="flex items-center">
+            <Link href="/login">
+              <a className="flex space-x-2">               
+                <span className="text-gray-900">
+                  Login
+                </span>
+              </a>
+            </Link>
+          </div>
         </nav>
       </div>
     </header>
